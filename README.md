@@ -68,5 +68,5 @@ All account numbers and transaction data in this project are completely fictiona
 ## Author
 
 **Darren Bridges**
-CompTIA Security+ | Pursuing M.S. Cybersecurity (UMGC)
+CompTIA Security+ | RHCSA-In Progress
 [LinkedIn](https://linkedin.com/in/darren-bridges-8986733b2)
